@@ -3,7 +3,7 @@ using riskmanagement as rm from '../db/schema';
 // Annotate Risk elements
 annotate rm.Risks with {
     ID     @title : 'Riskss';
-    title  @title : 'Title';
+    title  @title : 'Titlee';
     owner  @title : 'Owner';
     prio   @title : 'Priority';
     descr  @title : 'Description';
